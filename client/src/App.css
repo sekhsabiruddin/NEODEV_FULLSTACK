@@ -1,0 +1,28 @@
+.border-1 {
+  border: 2px solid red;
+}
+.border-2 {
+  border: 2px solid green;
+}
+.other-message-box {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+.yours-message-box {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+.box-shadow {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
+    rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  border-radius: 5px;
+}
+.input-css {
+  outline: none;
+  width: 96%;
+}
+.message-box-border {
+  border: 0.5px solid #ddd;
+}
